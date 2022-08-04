@@ -1,0 +1,15 @@
+{
+  "name": "source_table_name",
+  "columns": {
+    "1": {
+      "name": "first_column_name",
+      "type": "char",
+      "constraint": "NOT NULL"
+    },
+    "2": {
+      "name": "second_column_name",
+      "type": "int",
+      "constraint": ""
+    }
+  }
+}
